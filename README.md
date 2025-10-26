@@ -42,6 +42,6 @@ Doenca_Coracao/
 
 ├─ heart.csv 
 
-├─ notebook.ipynb # Notebook com análise e modelo
+├─ DoençaCoracao.ipynb
 
 ├─ README.md
